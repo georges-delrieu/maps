@@ -1,7 +1,6 @@
 <html>
     <head>
-        <link href="https://fonts.googleapis.com/css?family=Press+Start+2P" rel="stylesheet">
-        <link href="https://unpkg.com/nes.css@2.3.0/css/nes.min.css" rel="stylesheet" />
+
         <style>
             .useful-width{
                 /* center the html elements */
@@ -18,7 +17,7 @@
                     path = path.substr(path, path.length - 'index.html'.length);
                 }
                 const instanceId = Math.random().toString(36).substring(2, 15);
-                const url = `https://play.workadventu.re/_/${instanceId}/${host}${path}map.json`;
+                const url = `_/${instanceId}/${host}${path}map.json`;
                 document.getElementById('mapLink').href = url;
                 document.getElementById('mapLink2').href = url;
                 document.getElementById('mapLink').innerText = url;
@@ -26,15 +25,17 @@
                 const mapUrl = window.location.protocol+'//'+window.location.host+path+'map.json';
                 document.getElementById('mapUrl').innerText = mapUrl;
 
-                const gettingStartedLink = 'https://workadventu.re/getting-started?name=Map&mapUrl='+mapUrl;
-                document.getElementById('gettingStartedLink').href = gettingStartedLink;
 
             };
         </script>
     </head>
     <body>
-        <div>
-                <p>You can test this map at <a id="mapLink" href=""></a>.</p>
+        <div class="useful-width">
+
+            <div style="margin-top: 1rem">
+                <p><a id="mapLink" href=""></a>.</p>
+                <p><a id="mapLink2" href=""></a></p>
+            </div>
         </div>
     </body>
 </html>

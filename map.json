@@ -519,7 +519,7 @@
                  "id":7,
                  "properties":[
                         {
-                         "name":"address",
+                         "name":"ERC1155",
                          "type":"string",
                          "value":"0x7758008dE0EB8a870c37a093adeC425ec02D3661"
                         }, 

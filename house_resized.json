@@ -379,6 +379,15 @@
                          "type":"bool",
                          "value":true
                         }]
+                }, 
+                {
+                 "id":12,
+                 "properties":[
+                        {
+                         "name":"exitUrl",
+                         "type":"string",
+                         "value":"map.json#entry-house"
+                        }]
                 }],
          "tilewidth":16
         }],

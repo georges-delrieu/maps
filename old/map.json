@@ -2201,7 +2201,7 @@
         {
          "columns":32,
          "firstgid":1,
-         "image":"src\/assets\/default_set.png",
+         "image":"..\/src\/assets\/default_set.png",
          "imageheight":1024,
          "imagewidth":1024,
          "margin":0,
@@ -2214,7 +2214,7 @@
         {
          "columns":32,
          "firstgid":1025,
-         "image":"src\/assets\/snow_set.png",
+         "image":"..\/src\/assets\/snow_set.png",
          "imageheight":1024,
          "imagewidth":1024,
          "margin":0,
@@ -2244,7 +2244,7 @@
         {
          "columns":16,
          "firstgid":2049,
-         "image":"src\/assets\/autumn_set.png",
+         "image":"..\/src\/assets\/autumn_set.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -2257,7 +2257,7 @@
         {
          "columns":76,
          "firstgid":2305,
-         "image":"src\/assets\/room_builder.png",
+         "image":"..\/src\/assets\/room_builder.png",
          "imageheight":3488,
          "imagewidth":2432,
          "margin":0,
@@ -2270,7 +2270,7 @@
         {
          "columns":11,
          "firstgid":10589,
-         "image":"src\/assets\/tv_studio.png",
+         "image":"..\/src\/assets\/tv_studio.png",
          "imageheight":320,
          "imagewidth":352,
          "margin":0,
@@ -2283,7 +2283,7 @@
         {
          "columns":32,
          "firstgid":10699,
-         "image":"src\/assets\/yellow_set.png",
+         "image":"..\/src\/assets\/yellow_set.png",
          "imageheight":1024,
          "imagewidth":1024,
          "margin":0,
@@ -2315,7 +2315,7 @@
         {
          "columns":9,
          "firstgid":11723,
-         "image":"src\/assets\/Special_Zones.png",
+         "image":"..\/src\/assets\/Special_Zones.png",
          "imageheight":64,
          "imagewidth":288,
          "margin":0,
@@ -2462,7 +2462,7 @@
         {
          "columns":32,
          "firstgid":11741,
-         "image":"src\/assets\/green_set.png",
+         "image":"..\/src\/assets\/green_set.png",
          "imageheight":1024,
          "imagewidth":1024,
          "margin":0,
@@ -2475,7 +2475,7 @@
         {
          "columns":17,
          "firstgid":12765,
-         "image":"src\/assets\/Museum_room_3_layer_2_32x32.png",
+         "image":"..\/src\/assets\/Museum_room_3_layer_2_32x32.png",
          "imageheight":672,
          "imagewidth":544,
          "margin":0,
@@ -2488,7 +2488,7 @@
         {
          "columns":4,
          "firstgid":13122,
-         "image":"src\/assets\/Fisherman_walk.png",
+         "image":"..\/src\/assets\/Fisherman_walk.png",
          "imageheight":192,
          "imagewidth":128,
          "margin":0,
@@ -2501,7 +2501,7 @@
         {
          "columns":12,
          "firstgid":13146,
-         "image":"src\/assets\/Swashbuckler_idle.png",
+         "image":"..\/src\/assets\/Swashbuckler_idle.png",
          "imageheight":384,
          "imagewidth":384,
          "margin":0,
@@ -2514,7 +2514,7 @@
         {
          "columns":12,
          "firstgid":13290,
-         "image":"src\/assets\/Fox_idle.png",
+         "image":"..\/src\/assets\/Fox_idle.png",
          "imageheight":384,
          "imagewidth":384,
          "margin":0,
@@ -2527,7 +2527,7 @@
         {
          "columns":4,
          "firstgid":13434,
-         "image":"src\/assets\/Kid01_idle.png",
+         "image":"..\/src\/assets\/Kid01_idle.png",
          "imageheight":192,
          "imagewidth":128,
          "margin":0,
@@ -2540,7 +2540,7 @@
         {
          "columns":4,
          "firstgid":13458,
-         "image":"src\/assets\/Kid02_idle.png",
+         "image":"..\/src\/assets\/Kid02_idle.png",
          "imageheight":192,
          "imagewidth":128,
          "margin":0,
@@ -2553,7 +2553,7 @@
         {
          "columns":4,
          "firstgid":13482,
-         "image":"src\/assets\/gates 2.png",
+         "image":"..\/src\/assets\/gates 2.png",
          "imageheight":96,
          "imagewidth":128,
          "margin":0,
@@ -2566,7 +2566,7 @@
         {
          "columns":5,
          "firstgid":13494,
-         "image":"src\/assets\/table 1.png",
+         "image":"..\/src\/assets\/table 1.png",
          "imageheight":96,
          "imagewidth":160,
          "margin":0,
@@ -2579,7 +2579,7 @@
         {
          "columns":32,
          "firstgid":13509,
-         "image":"src\/assets\/RPG Halloween tileset (full).png",
+         "image":"..\/src\/assets\/RPG Halloween tileset (full).png",
          "imageheight":1024,
          "imagewidth":1024,
          "margin":0,
@@ -2592,7 +2592,7 @@
         {
          "columns":60,
          "firstgid":14533,
-         "image":"src\/assets\/pannel.png",
+         "image":"..\/src\/assets\/pannel.png",
          "imageheight":1920,
          "imagewidth":1920,
          "margin":0,
@@ -2605,7 +2605,7 @@
         {
          "columns":4,
          "firstgid":18133,
-         "image":"src\/assets\/gates 2-export.png",
+         "image":"..\/src\/assets\/gates 2-export.png",
          "imageheight":96,
          "imagewidth":128,
          "margin":0,
@@ -2655,7 +2655,7 @@
         {
          "columns":32,
          "firstgid":18145,
-         "image":"src\/assets\/mochi_house.png",
+         "image":"..\/src\/assets\/mochi_house.png",
          "imageheight":1024,
          "imagewidth":1024,
          "margin":0,
@@ -2989,7 +2989,7 @@
         {
          "columns":32,
          "firstgid":19169,
-         "image":"src\/assets\/mochi2.png",
+         "image":"..\/src\/assets\/mochi2.png",
          "imageheight":1024,
          "imagewidth":1024,
          "margin":0,

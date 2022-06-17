@@ -519,7 +519,7 @@
          "imageheight":3984,
          "imagewidth":128,
          "margin":0,
-         "name":"[Base]BaseChip_pipo",
+         "name":"01_base_complete",
          "spacing":0,
          "tilecount":1992,
          "tileheight":16,
@@ -533,19 +533,6 @@
                          "value":true
                         }]
                 }],
-         "tilewidth":16
-        }, 
-        {
-         "columns":8,
-         "firstgid":14415,
-         "image":"..\/_Palouf_maps\/src\/assets_resized\/04_Orbs.png",
-         "imageheight":32,
-         "imagewidth":128,
-         "margin":0,
-         "name":"04_Orbs",
-         "spacing":0,
-         "tilecount":16,
-         "tileheight":16,
          "tilewidth":16
         }],
  "tilewidth":16,

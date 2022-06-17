@@ -585,7 +585,7 @@
          "imageheight":3984,
          "imagewidth":128,
          "margin":0,
-         "name":"[Base]BaseChip_pipo",
+         "name":"01_base_complete",
          "spacing":0,
          "tilecount":1992,
          "tileheight":16,
@@ -630,7 +630,7 @@
         {
          "columns":10,
          "firstgid":14446,
-         "image":"..\/_Palouf_maps\/src\/assets_resized\/02_logo.png",
+         "image":"src\/assets_resized\/02_logo.png",
          "imageheight":128,
          "imagewidth":160,
          "margin":0,

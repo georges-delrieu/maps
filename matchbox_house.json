@@ -802,11 +802,11 @@
         {
          "columns":1,
          "firstgid":13570,
-         "image":"src\/assets_resized\/03_room_builder_matchbox.png",
+         "image":"src\/assets_resized\/03_corner_matchbox.png",
          "imageheight":16,
          "imagewidth":16,
          "margin":0,
-         "name":"03_corner_matchbox",
+         "name":"03_Corner",
          "spacing":0,
          "tilecount":1,
          "tileheight":16,
